@@ -1,5 +1,5 @@
 {
-   "book":[ { "id"   :1,
+   "books" : [ { "id"   :1,
       "title": "Eloquent JavaScript, Second Edition",
       "subtitle": "A Modern Introduction to Programming",
       "author": "Marijn Haverbeke",
