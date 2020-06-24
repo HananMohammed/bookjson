@@ -1,4 +1,4 @@
-{"book": 
+'{"book": 
  { "id"   :1,
       "title": "Eloquent JavaScript, Second Edition",
       "subtitle": "A Modern Introduction to Programming",
@@ -97,5 +97,4 @@
         "bestseller": true
        "website": "http://harryboter.net/"
       }
-}
-
+}';
