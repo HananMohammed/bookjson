@@ -1,6 +1,6 @@
 {
- [
- {     "id"   :1,
+ "total" : [
+   {     "id"   :1,
       "title": "Eloquent JavaScript, Second Edition",
       "subtitle": "A Modern Introduction to Programming",
       "author": "Marijn Haverbeke",
