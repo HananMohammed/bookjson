@@ -1,5 +1,4 @@
-{
- "total" : [
+ [
    {     "id"   :1,
       "title": "Eloquent JavaScript, Second Edition",
       "subtitle": "A Modern Introduction to Programming",
@@ -96,7 +95,5 @@
         "pages": 472,
         "description": "Fantasy Fiction",
         "bestseller": true
-       "website": "http://harryboter.net/"
       }
- ]
-}
+]
